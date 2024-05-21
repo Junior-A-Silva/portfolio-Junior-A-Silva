@@ -1,5 +1,5 @@
 export const userData = {
   nameUser: "Junior da Silva",
-  githubUser: "Junior-A-Silva",
+  githubUser: "jr-silva-dev",
   linkedinUser: "junior-da-silva/",
 };
